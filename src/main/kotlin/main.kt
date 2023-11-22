@@ -1,6 +1,11 @@
+fun oneMoreFunction2(){
+    println("Еще функция")
+}
+
 fun oneMoreFun(){
     println("This is another function")
 }
+
 
 fun main() {
     println("Hi!")
@@ -8,8 +13,4 @@ fun main() {
     println("Просто для еще одного коммита")
     oneMoreFun()
     oneMoreFunction2()
-}
-
-fun oneMoreFunction2(){
-    println("Еще функция")
 }
