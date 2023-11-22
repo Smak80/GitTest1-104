@@ -1,5 +1,5 @@
 fun oneMoreFun(){
-    println("This is another function")
+    println("Еще функция")
 }
 
 fun main() {
