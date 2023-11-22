@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5cb1d06-25ec-4be4-84e7-0e08fbbc6e31" name="Changes" comment="Создание проекта">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitTest1-104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GitTest1-104.iml" afterDir="false" />
+    <list default="true" id="c5cb1d06-25ec-4be4-84e7-0e08fbbc6e31" name="Changes" comment="Добавление второго приветствия">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,8 @@
     "git-widget-placeholder": "master",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -78,11 +77,31 @@
       <option name="project" value="LOCAL" />
       <updated>1700642460149</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавление второго приветствия">
+      <option name="closed" value="true" />
+      <created>1700659737777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700659737777</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создание проекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание проекта" />
+    <MESSAGE value="Добавление второго приветствия" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление второго приветствия" />
   </component>
 </project>
