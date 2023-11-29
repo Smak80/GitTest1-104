@@ -1,3 +1,7 @@
+fun oneMoreFunction2(){
+    println("Еще функция 2")
+}
+
 fun oneMoreFun(){
     println("Еще функция")
 }
