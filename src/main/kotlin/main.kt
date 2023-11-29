@@ -18,4 +18,9 @@ fun main() {
     oneMoreFun()
     secondFun()
     myFunK()
+    fun3()
+}
+
+fun fun3() {
+    println("1")
 }
