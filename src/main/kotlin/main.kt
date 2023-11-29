@@ -12,4 +12,7 @@ fun main() {
     println("Просто для еще одного коммита")
     oneMoreFun()
     secondFun()
+    gmoChotko()
 }
+
+fun gmoChotko() =  repeat(1000) { println("Тут Был Лёва") }
