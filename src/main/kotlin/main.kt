@@ -23,4 +23,5 @@ fun main() {
     println("И снова здравствуйте!")
     println("Просто для еще одного коммита")
     oneMoreFun()
+    oneMoreFunction2()
 }
