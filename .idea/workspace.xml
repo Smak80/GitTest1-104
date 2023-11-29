@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5cb1d06-25ec-4be4-84e7-0e08fbbc6e31" name="Changes" comment="Вторая функция: перенос наверх">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="c5cb1d06-25ec-4be4-84e7-0e08fbbc6e31" name="Changes" comment="Удаление второй функции.&#10;Переименование третьей функции во вторую" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701243631536</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Удаление второй функции.&#10;Переименование третьей функции во вторую">
+      <option name="closed" value="true" />
+      <created>1701244522982</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701244522982</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +171,7 @@
     <MESSAGE value="Исправленный вариант" />
     <MESSAGE value="Перевод на русский" />
     <MESSAGE value="Третья функция" />
-    <option name="LAST_COMMIT_MESSAGE" value="Третья функция" />
+    <MESSAGE value="Удаление второй функции.&#10;Переименование третьей функции во вторую" />
+    <option name="LAST_COMMIT_MESSAGE" value="Удаление второй функции.&#10;Переименование третьей функции во вторую" />
   </component>
 </project>

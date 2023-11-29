@@ -3,7 +3,7 @@ fun oneMoreFun(){
 }
 
 fun secondFun(){
-    println("Функция 3")
+    println("Функция 2")
 }
 
 fun main() {
