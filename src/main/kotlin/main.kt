@@ -6,6 +6,10 @@ fun oneMoreFun(){
     println("Еще функция")
 }
 
+fun thirdFun(){
+    println("Функция 3")
+}
+
 fun main() {
     println("Hi!")
     println("И снова здравствуйте!")
