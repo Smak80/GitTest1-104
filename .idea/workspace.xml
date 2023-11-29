@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5cb1d06-25ec-4be4-84e7-0e08fbbc6e31" name="Changes" comment="Удаление второй функции.&#10;Переименование третьей функции во вторую" />
+    <list default="true" id="c5cb1d06-25ec-4be4-84e7-0e08fbbc6e31" name="Changes" comment="Удаление второй функции.&#10;Переименование третьей функции во вторую">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
