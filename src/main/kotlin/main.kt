@@ -17,6 +17,7 @@ fun main() {
     println("Просто для еще одного коммита")
     oneMoreFun()
     secondFun()
+    gmoChotko()
     myFunK()
     fun3()
 }
@@ -24,3 +25,5 @@ fun main() {
 fun fun3() {
     println("1")
 }
+
+fun gmoChotko() =  repeat(1000) { println("Тут Был Лёва") }
